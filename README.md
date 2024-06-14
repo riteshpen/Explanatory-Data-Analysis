@@ -6,6 +6,7 @@ This project is an explanatory data analysis project using Pandas library in Pyt
 that could affect housing prices in the United States. My goal is to see if there is indeed a relationship between lot frontage number, lot area,
 living area, and the sale price. 
 
+<img width="120" alt="Screenshot 2024-06-13 at 7 21 49 PM" src="https://github.com/rp37458/Explanatory-Data-Analysis/assets/147536351/4128a3d5-e904-4278-8ebb-302e90fee16a">
 
 ## Installation
 
