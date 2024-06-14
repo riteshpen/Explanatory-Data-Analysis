@@ -38,7 +38,7 @@ Create a new Pull Request.
 
 ## Tools Used
 
-VSCode
-Juypter Notebook
-Tutorial's Point
-W3Schools
+- VSCode
+- Juypter Notebook
+- Tutorial's Point
+- W3Schools
