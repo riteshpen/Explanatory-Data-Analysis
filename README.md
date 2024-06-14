@@ -36,6 +36,9 @@ Push to the branch (git push origin feature/improvement).
 Create a new Pull Request.
 
 
-## Technologies Used
+## Tools Used
 
-Python
+VSCode
+Juypter Notebook
+Tutorial's Point
+W3Schools
